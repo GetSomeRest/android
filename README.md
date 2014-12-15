@@ -14,7 +14,10 @@ Building the sample
 
 The sample was created using Eclipse
 
-You first need to import each project int Eclipse in order to compile and run it on your Android device
+  1. You first need to modify (or create) the UserSettings.java
+     Copy android/ReCapDemo/src/com/autodesk/adn/recap/_UserSettings.java into android/ReCapDemo/src/com/autodesk/adn/recap/UserSettings.java and put your oAuth / ReCap credentials in it.
+
+  2. Then you need to import each project in Eclipse in order to compile and run it on your Android device
 	 
 
 --------
