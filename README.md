@@ -1,3 +1,8 @@
+This sample is deprecated as there is a new API for ReCap
+=======================
+Go to https://developer.autodesk.com/en/docs/reality-capture/v1/overview/ for more information
+
+
 Android ReCap Sample
 =======================
 
